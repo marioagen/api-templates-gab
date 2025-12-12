@@ -1,0 +1,5 @@
+{
+  "name": "apis integ",
+  "description": "A modern, responsive API template manager and executor with cURL import support and real-time JSON validation.",
+  "requestFramePermissions": []
+}
